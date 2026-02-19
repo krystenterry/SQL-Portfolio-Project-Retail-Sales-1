@@ -1,4 +1,4 @@
-# Retail Sales Analysis SQL Project
+# SQL EDA : Business Insights Analysis
 
 ## Project Overview
 
@@ -228,5 +228,6 @@ GROUP BY shift
 ## Conclusions
 
 This project served as a comprehensive introduction to SQL for data analysis and covered key skills and techniques sucha as database setup, data cleaning, exploratory data analysis and business-driven SQL queries. The insights in this project can help drive business decisions by exploring sales patterns, customer behavior and product performance. 
+
 
 
